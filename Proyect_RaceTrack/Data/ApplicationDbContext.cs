@@ -11,4 +11,5 @@ public class ApplicationDbContext : IdentityDbContext
     {
     }
     public DbSet<herramientas_parcial1_OliveraJorgeDaniel.Models.Vehiculo> Vehiculo { get; set; } = default!;
+    public DbSet<herramientas_parcial1_OliveraJorgeDaniel.Models.Piloto> Piloto { get; set; } = default!;
 }
