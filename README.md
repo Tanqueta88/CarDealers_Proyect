@@ -35,3 +35,26 @@
 - 'Business functionality'
      - When loading a new motorcycle to the inventory, if this motorcycle already exists it is added to the quantity in stock.
      - When entering the inventory of an office, the total amount of money in stock and the number of motorcycles in stock are shown.
+ 
+## 📁 Project access
+
+- `How to access the project`:
+    - [Link to github repository](https://github.com/Tanqueta88/CarDealers_Proyect.git)
+
+## 🛠️ Open and run the project
+
+- `How to run the project`:
+     - 1st install the dependencies to use ORM
+         - "dotnet tool install --global dotnet-aspnet-codegenerator"
+         - "dotnet tool install --global dotnet-ef"
+         - "dotnet add package Microsoft.EntityFrameworkCore.Design"
+         - "dotnet add package Microsoft.EntityFrameworkCore.SQLite"
+         - "dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design"
+         - "dotnet add package Microsoft.EntityFrameworkCore.Tools"
+     - 2° Run the "dotnet build" command
+     - 3rd execute the "dotnet run" command to start the application
+
+## ✔:Technologies used
+   - Microsoft .NET
+   -HTML
+   - JAVASCRIPT
